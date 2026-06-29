@@ -380,4 +380,14 @@ Graphify can serve as the **"Knowledge Backbone"** for QSL agents. Instead of ag
 
 ---
 
+---
+
+## QSL Ecosystem Context
+
+This report was produced during the QSL Knowledge Layer Architecture Review (2026-06-29). Graphify is evaluated as the **Relationship and Visualization Layer** of the Quantum Shield Labs ecosystem. It maps relationships between repositories, documents, concepts, systems, decisions, agents, threats, and evidence.
+
+For the integrated architecture, see: `qsl-knowledge-base/docs/architecture/QSL_KNOWLEDGE_LAYER_ARCHITECTURE_V1.md`.
+
+---
+
 *Report compiled based on direct source code inspection of the Graphify repository on 2026-06-29.*
